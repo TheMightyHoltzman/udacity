@@ -1,0 +1,25 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+
+    font-family: 'Lato', sans-serif;
+}
+
+.app {
+    display: flex;
+}
+
+.title {
+    background-color: #33BEBE;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 15;
+}
+
+.description {
+    margin: 10px;
+    color: #7C8B88;
+    margin-left: 30px;
+}
