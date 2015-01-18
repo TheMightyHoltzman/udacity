@@ -1,0 +1,87 @@
+* {
+    font-family: 'Kalimati, Verdana, sans-serif' !important;
+}
+
+h1 {
+    margin-left: -20px;
+    margin-top: 42px;
+    font-size: 45px;
+    font-size: 50px;
+    text-align: center;
+    color: #666666;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #F07C17;
+}
+
+p {
+    margin-top: 5px;
+    line-height: 31px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding-top: 5px;
+}
+
+.row {
+    margin-left: -27px;
+    width: 1024px;
+}
+
+li {
+    padding-top: 24px;
+    height: 30px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.first-row {
+    height: 100px;
+    margin-bottom: 28px;
+}
+
+.second-row {
+}
+
+.second-column h2 {
+    padding-top: -15px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+. features h2 {
+    margin-top: -5px;
+}
+
+.first-column {
+    padding-left: 20px;
+}
+
+.second-column {
+    padding-left: 0px;
+    padding-right: 15px;
+    width: 530px;
+}
+
+.features {
+    width: 375px;
+    height: 223px;
+    margin-top: 10px;
+    padding-left: 32px;
+    padding-top: 10px;
+    border: 1px solid #CCCCCC;
+}
+
+.mug {
+    height: 375px;
+    width: 375px;
+}
+
+.mockup-overlay {
+    top: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: .4;
+}
