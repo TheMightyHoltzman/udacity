@@ -78,10 +78,3 @@ li {
     height: 375px;
     width: 375px;
 }
-
-.mockup-overlay {
-    top: 0;
-    position: absolute;
-    z-index: -1;
-    opacity: .4;
-}
